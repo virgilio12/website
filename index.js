@@ -756,6 +756,7 @@ document.getElementById("resetBtn").onclick = function(){
 //let firstname = "Vince";
 //let age = 21;
 
+
 let age = window.prompt("How old are You? ");
 
 age = Number(age);
